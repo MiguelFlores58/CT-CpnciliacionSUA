@@ -1,0 +1,6 @@
+{
+  "Name": "CT-ConciliacionSUA",
+  "ProjectType": "Process",
+  "Description": "Proceso de Conciliacion de SUA con EK",
+  "MainFile": "Main.xaml"
+}
