@@ -1,0 +1,39 @@
+﻿{
+  "Metadata": {
+    "Id": "a49a6be5-5c51-46e1-815d-7b4ff1fad7fd",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "DatosIniciales",
+    "Theme": "Default",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "label": "Nombre Archivo del Reporte Acumulados EK",
+        "tableView": true,
+        "key": "nombreReporteAcumuladosEk",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Nombre del Archivo del Reporte del SUA",
+        "tableView": true,
+        "key": "nombreDelArchivoDelReporteDelSua",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "type": "button",
+        "label": "Submit",
+        "key": "submit",
+        "disableOnInvalid": true,
+        "input": true,
+        "tableView": false
+      }
+    ]
+  }
+}
